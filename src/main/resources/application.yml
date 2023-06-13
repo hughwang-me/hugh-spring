@@ -1,0 +1,20 @@
+#
+#knife4j:
+#  enable: true
+#  openapi:
+#    title: Knife4j????
+#    description: "`????`,**????**
+#    # aaa"
+#    email: xiaoymin@foxmail.com
+#    concat: ????
+#    url: https://docs.xiaominfo.com
+#    version: v4.0
+#    license: Apache 2.0
+#    license-url: https://stackoverflow.com/
+#    terms-of-service-url: https://stackoverflow.com/
+#    group:
+#      test1:
+#        group-name: ????
+#        api-rule: package
+#        api-rule-resources:
+#          - com.knife4j.demo.new3
